@@ -1,0 +1,20 @@
+{
+    "name": "ghosty/console-output",
+    "description": "The Console component allows you to create command-line commands. Your console commands can be used for any recurring task, such as cronjobs, imports, or other batch jobs.",
+    "type": "package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ghosty\\Component\\Console\\Output\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AnvilM",
+            "email": "211anvil112@gmail.com"
+        }
+    ],
+    "require": {
+        "ghosty/bag": "^1.0"
+    }
+}
