@@ -2,7 +2,6 @@
 
 namespace Ghosty\Component\Console\Output;
 
-use ArrayObject;
 use Ghosty\Component\Console\Output\Contracts\OutputContract;
 use Ghosty\Component\Console\Output\Contracts\Text\TextBagContract;
 
